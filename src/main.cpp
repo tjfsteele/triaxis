@@ -3,7 +3,7 @@
 #include <Preferences.h>
 #include <ezButton.h>
 #include <time.h>
-#include "wifi.h"
+#include "mywifi.h"
 #include "cStatusLed.h"
 #include "defines.h"
 #include "ota.h"

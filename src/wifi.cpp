@@ -1,7 +1,7 @@
 /*! \file wifi.cpp */
 #include <WiFi.h>
 #include "ntp.h"
-#include "wifi.h"
+#include "mywifi.h"
 
 /*! \brief Wifi FSM
     \return true if connected
